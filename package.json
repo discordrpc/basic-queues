@@ -1,0 +1,22 @@
+{
+  "name": "queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discordrpc/queues.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "discordrpc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/discordrpc/queues/issues"
+  },
+  "homepage": "https://github.com/discordrpc/queues#readme"
+}
