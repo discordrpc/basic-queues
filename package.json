@@ -1,6 +1,6 @@
 {
   "name": "basic-queues",
-  "version": "1.0.1-0",
+  "version": "1.0.1",
   "description": "A basic package that allows a user to create their own queues.",
   "main": "src/index.js",
   "scripts": {
